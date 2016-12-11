@@ -1,1 +1,5 @@
 hollow world!!
+
+git add *
+git commit -m "some massage"
+git push origin master
