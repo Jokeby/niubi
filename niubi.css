@@ -7,3 +7,12 @@
 .nb-tl{
   text-align: left;
 }
+.nb-ct{
+	display: block;
+	margin: 0 auto;
+}
+.nb-cfix::after{	
+	content: "";
+	display: table;
+	clear: both;
+}
