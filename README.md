@@ -1,2 +1,2 @@
 # niubi
-a simple css  framwork
+a simple css  framwork for everyone^_^
