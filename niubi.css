@@ -1,9 +1,18 @@
 .nb-tc{
-  text-align: center;
+    text-align: center;
 }
 .nb-tr{
-  text-align: right;
+    text-align: right;
 }
 .nb-tl{
-  text-align: left;
+    text-align: left;
+}
+.nb-ct{
+	display: block;
+	margin: 0 auto;
+}
+.nb-cfix::after{	
+	content: "";
+	display: table;
+	clear: both;
 }
